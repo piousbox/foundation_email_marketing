@@ -57,3 +57,27 @@ table.button.google table td {
 .wrapper.secondary {
   background: #f3f3f3;
 }
+
+/**
+ * _vp_ 20170530
+ */
+.bg-yellow,
+.yellow-bg {
+  background: yellow;
+}
+.text-right {
+  text-align: right;
+}
+table.button.align-right {
+  display: inline-block;
+  float: right;
+}
+.gray {
+  color: gray;
+}
+.light-gray {
+  color: #cecece;
+}
+
+
+
