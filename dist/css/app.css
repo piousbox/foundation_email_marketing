@@ -232,9 +232,6 @@ h5.text-center,
 p.text-center {
   text-align: center; }
 
-p.text-left {
-  text-align: left; }
-
 h1.text-right,
 p.text-right {
   text-align: right; }
@@ -600,6 +597,3 @@ table.button.google table td {
 table.button.align-right {
   display: inline-block;
   float: right; }
-
-.light-gray {
-  color: #cecece; }
